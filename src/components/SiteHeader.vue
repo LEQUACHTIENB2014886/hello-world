@@ -10,7 +10,7 @@
       </a>
     </div>
     <div class="d-flex bg-white">
-      <div class="p-2 flex-fill"><a href="#" id="link1">Trang chủ2</a></div>
+      <div class="p-2 flex-fill"><a href="#" id="link1">Trang chủ</a></div>
       <div class="p-2 flex-fill"><a href="#" id="link1">Giới thiệu</a></div>
       <div class="p-2 flex-fill"><a href="#" id="link1">Trách nhiệm xã hội</a></div>
       <div class="p-2 flex-fill"><a href="#" id="link1">Hoạt động công đoàn</a></div>
